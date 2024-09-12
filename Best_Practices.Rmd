@@ -2,7 +2,7 @@
 title: "Best Practices"
 author: "Jeffrey Lin"
 date: "2024-09-10"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
